@@ -2,7 +2,7 @@
     "name": "Bumblebee",
     "description": "Bumblebee with Url Shortner",
     "stack": "container",
-    "logo": "https://telegra.ph/file/68d28011b2bc356b5db01.png",
+    "logo": "https://te.legra.ph/file/d10520132e2e55b7ac41c.jpg",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/LazyDeveloperr",
-    "repository": "https://github.com/LazyDeveloperr/LazyPrincessV2",
+    "website": "https://github.com/blackhawk2031",
+    "repository": "https://github.com/blackhawk2031/bumblebeenew",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
