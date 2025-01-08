@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/68d28011b2bc356b5db01.png" alt="Bumblebee Logo">
+  <img src="https://te.legra.ph/file/d10520132e2e55b7ac41c.jpg" alt="Bumblebee Logo">
 </p>
 <h1 align="center">
   <b> Bumblebee 2.0 </b>
